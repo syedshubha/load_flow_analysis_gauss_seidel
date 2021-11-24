@@ -1,0 +1,5 @@
+Bus No.,Bus Type,P_gen,Q_gen,P_load,Q_load,|V|,delta_V,Q_min,Q_max,V_min,V_max,remark
+1,0,0,0,50,30.99,1,0,0,0,0,0,slack bus
+2,1,0,0,170,105.35,1,0,0,0,0,0,load bus
+3,1,0,0,200,123.94,1,0,0,0,0,0,load bus
+4,2,318,0,80,49.58,1.02,0,0,0,0,0,PV bus
